@@ -1,0 +1,23 @@
+.credit0{
+    text-decoration: overline;
+}
+.credit1{
+    text-decoration: underline;
+}
+.credit2{
+    text-decoration: line-through;
+}
+p{
+    line-height: 1.4em;
+    text-align: justify;
+}
+h1 , h2 {
+    text-transform: capitalize;
+     letter-spacing: normal;
+     font-weight: bold;
+     word-spacing: 0.25em;
+     text-align: center;
+}
+img.Checking0{
+    vertical-align: text-top;
+}
